@@ -1,4 +1,3 @@
-process.env.UV_THREADPOOL_SIZE = 1;
 const express = require('express');
 const app = express();
 const crypto = require('crypto');
